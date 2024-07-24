@@ -6,9 +6,11 @@
  * Celery
  * Onion
  * Carrot
+ * Leek
  * Water
  * Pepper corns
  * Bay leaf
+ * Tyme (fresh)
 
 It is very important to NOT add salt to the stock, since the stock will be used in another recipe.
 
