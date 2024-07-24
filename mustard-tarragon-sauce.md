@@ -1,10 +1,10 @@
 # Mustard and tarragon sauce
 
-This is a very simple sauce that starts off by using the left overs in the pan after frying light meat, such as chicken.
+This is a very simple sauce that starts off by using the fond that is left behind in the pan after frying light meat, such as chicken.
 
 ## Ingredients
 
- * Left overs in a pan after frying
+ * Fond in a pan (after frying chicken for example)
  * Butter
  * Garlic (minced)
  * Chicken stock
