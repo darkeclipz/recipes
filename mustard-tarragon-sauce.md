@@ -19,3 +19,7 @@ This is a very simple sauce that starts off by using the left overs in the pan a
  4. Add the lemon juice.
  5. Add a tbsp of whole grain mustard to the sauce. The mustard contains an enzyme that will naturally thicken the sauce.
  6. Add the tarragon.
+
+## Sources
+
+ 1. https://www.youtube.com/watch?v=XpOQ5ZDyw9E
