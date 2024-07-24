@@ -1,6 +1,6 @@
 # Mustard and tarragon sauce
 
-This is a very simple sauce that starts off by using the left overs in the pan after frying chicken for example.
+This is a very simple sauce that starts off by using the left overs in the pan after frying light meat, such as chicken.
 
 ## Ingredients
 
