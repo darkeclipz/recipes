@@ -4,7 +4,7 @@ A fresh mayo with a slight touch of garlic and lemon. Very easy to make with a f
 
 ## Ingredients
 
- * 3 egg yolks
+ * Egg yolks (3)
  * Vinegar
  * Avocado oil
  * Olive oil
