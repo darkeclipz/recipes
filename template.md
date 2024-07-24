@@ -12,8 +12,8 @@ An unordered list of the ingredients.
 
 ## Steps
 
-A numbered list of steps that have to be taken for the recipe.
+An ordered list of steps that have to be taken for the recipe.
 
 ## Sources
 
-A numberered list of references to the sources that have been used.
+An ordered list of references to the sources that have been used.
