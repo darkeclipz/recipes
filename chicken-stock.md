@@ -1,4 +1,6 @@
-**Ingredients:**
+# Chicken stock
+
+## Ingredients
 
  * Chicken carcass cut into pieces
  * Celery
@@ -10,7 +12,7 @@
 
 It is very important to NOT add salt to the stock, since the stock will be used in another recipe.
 
-**Steps:**
+## Steps
 
 1. Cut celery, onions, and carrots, and toast them in the oven with the chicken carcass that is left over from a whole chicken.
 2. Remove it from the oven once it has a good browning, and add all of it to a big pot.
