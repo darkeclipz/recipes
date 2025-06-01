@@ -6,13 +6,17 @@ A paragraph of text that describes the recipe.
 
 An unordered list of the ingredients.
 
- 1. Ingredient A
- 2. Ingredient B
- 3. Ingredient C
+ * Ingredient A
+ * Ingredient B
+ * Ingredient C
 
 ## Steps
 
 An ordered list of steps that have to be taken for the recipe.
+
+ 1. Step 1
+ 2. Step 2
+ 3. Step 3
 
 ## Sources
 
